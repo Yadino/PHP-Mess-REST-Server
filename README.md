@@ -1,5 +1,5 @@
 # PHP-Mess-REST-Server
-Messapp's REST Server package written in PHP.
+The REST Server package used by [aessapp.net](https://messapp.net). .
 
 This REST server was created as part of the MessApp (messapp.net) project, but it can be used as a standalone REST server.
 
