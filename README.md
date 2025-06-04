@@ -1,7 +1,7 @@
 # PHP-Mess-REST-Server
 The REST Server package used by [messapp.net](https://messapp.net). .
 
-This REST server was created as part of the MessApp (messapp.net) project, but it can be used as a standalone REST server.
+This REST server was created as part of the MessApp project, but it can be used as a standalone REST server.
 
 Please note: 
 The line
